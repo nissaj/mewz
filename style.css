@@ -1,0 +1,31 @@
+html {
+    background-color: black;
+    color: white
+    
+}
+
+.container {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    font-size: 24;
+}
+
+.container div {
+    height: 100px
+
+}
+
+.highlightcontainer {
+    background-color: #373533;
+    height: 295px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.highlightcontainer img {
+    max-width: 100%;
+   
+}
